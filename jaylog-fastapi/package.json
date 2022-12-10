@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jinja": "^0.13.4",
+    "jinja2": "^0.0.1"
+  }
+}
